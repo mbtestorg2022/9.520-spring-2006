@@ -156,7 +156,7 @@ Ranking
 ([PDF]({{< baseurl >}}/resources/lec9))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/class09))
+([PDF]({{< baseurl >}}/resources/class09))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -315,7 +315,7 @@ Neuroscience
 ([PDF]({{< baseurl >}}/resources/lec18))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.5 MB]({{< baseurl >}}/resources/class18))
+([PDF - 2.5 MB]({{< baseurl >}}/resources/class18))
 {{< tdclose >}}
 
 {{< trclose >}}

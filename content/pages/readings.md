@@ -6,7 +6,7 @@ uid: a88c4986-be97-bea7-1c68-64759f85ca96
 
 There is no textbook for this course. All the required information will be presented in the slides associated with each class. The books/papers listed below are useful general reference reading, especially from the theoretical viewpoint. A list of suggested readings is also provided for each class separately.
 
-Boucheron, S., O. Bousquet, and G. Lugosi. "Theory of Classification: A Survey of Recent Advances." _ESAIM: Probability and Statistics_ 9 (2005): 323-375. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.econ.upf.edu/~lugosi/esaimsurvey.pdf))
+Boucheron, S., O. Bousquet, and G. Lugosi. "Theory of Classification: A Survey of Recent Advances." _ESAIM: Probability and Statistics_ 9 (2005): 323-375. ([PDF](http://www.econ.upf.edu/~lugosi/esaimsurvey.pdf))
 
 ———. "Introduction to Statistical Learning Theory." In _Advanced Lectures on Machine Learning_. Lecture Notes in Artificial Intelligence 3176. Edited by O. Bousquet, U. Von Luxburg, and G. Ratsch. Heidelberg, Germany: Springer, 2004, pp. 169-207. ([PDF](https://link.springer.com/chapter/10.1007/978-3-540-28650-9_8))
 
