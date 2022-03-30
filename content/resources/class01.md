@@ -4,6 +4,7 @@ description: This resource provides information on the topic of learning as asso
   with other topics such as brains and machines, and math, engineering, neuroscience.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-520-statistical-learning-theory-and-applications-spring-2006/ab9c0fb69884a0a8ac334033ebaf817c_class01.pdf
 file_type: application/pdf
+parent_uid: 8da084b8-16c9-147f-2c24-36fb7353719e
 resourcetype: Document
 title: class01.pdf
 uid: ab9c0fb6-9884-a0a8-ac33-4033ebaf817c

@@ -6,6 +6,7 @@ description: This resource provides information on topics such as online learnin
   games.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-520-statistical-learning-theory-and-applications-spring-2006/badc38aacb86dd05637aa767212b6e72_class12.pdf
 file_type: application/pdf
+parent_uid: 8da084b8-16c9-147f-2c24-36fb7353719e
 resourcetype: Document
 title: class12.pdf
 uid: badc38aa-cb86-dd05-637a-a767212b6e72
